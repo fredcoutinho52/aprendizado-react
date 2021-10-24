@@ -1,13 +1,8 @@
-import Login from "./pages/Login";
+import Routes from "./routes";
+import "./styles/global.css";
 
 function App() {
-  return (
-    <Login />
-  );
+  return <Routes />;
 }
 
 export default App;
-
-// estado / state
-// propriedades / props
-// componentes / components

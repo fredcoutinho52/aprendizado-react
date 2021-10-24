@@ -37,7 +37,6 @@ body {
 	bottom: 0px;
 	left: 0;
 	height: 100%;
-	/* z-index: -1;    */
 }
 
 .stop-scrolling {
@@ -60,8 +59,6 @@ a {
   width: 100%;
   min-height: 100vh;
   overflow: hidden;
-  /* background-color: var(--backgroundColor); */
-  /* background-image: url(img/nasa-rTZW4f02zY8-unsplash.jpg); */
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -550,6 +547,7 @@ a:hover{
   .showcase-area .btn {
     font-size: 0.8rem;
   }
+  
   .person {
     display: none;
   }
